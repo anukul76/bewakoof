@@ -1,5 +1,5 @@
 # bewakoof-clone
-
+Deployed Link https://cozy-granita-5010e8.netlify.app/
 https://github.com/Rahul1905-sk/mellow-sidewalk-9952
 
 ### Bewakoof_Clone
@@ -41,6 +41,8 @@ CSS,
 JS DOM,
 LocalStorage,
 Local Backend Json-Server
+
+
 
 ## Team Members
 <ul>
